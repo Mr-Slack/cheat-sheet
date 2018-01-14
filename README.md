@@ -1,2 +1,2 @@
-# cheatsheet
+# cheat-sheet
 repository for cheatsheet
